@@ -1,0 +1,158 @@
+body {
+    background: #EBEBEB;
+
+}
+
+
+.mainHeading1 {
+    text-align: center;
+    background: #58A69E;
+    padding: 20px;
+    color: white;
+    margin-bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    background: white;
+    
+
+}
+
+.lineRight {
+    border-right-style: inset;
+    border-right-color:  #EBEBEB;
+    border-right-width: 1px;
+
+}
+
+.container {
+    background: white;
+    margin: 20px auto;
+
+}
+
+
+.mainH2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #58A69E;
+    background: white;
+    text-align: left;
+    padding: 20px;
+    margin-bottom: 0;
+
+}
+
+.lineBelow {
+    border-bottom-style: solid;
+    border-bottom-color: #EBEBEB;
+    border-bottom-width: 2px;
+
+}
+
+.catPicture {
+   float: left;
+   width: 100%;
+   margin-top: 25px;
+   margin-bottom: 25px;
+
+}
+
+p {
+   line-height: 200%; 
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+footer {
+    background: #666666;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+    border-top-color:#58A69E;
+    border-top-width: 5px;
+    border-top-style: solid; 
+    margin-top: 20%;
+
+}
+
+.indexNavbar2 {
+    display: none;
+
+}
+
+@media screen and (min-width: 641px) {
+    
+    .headingContainer {
+        margin-top: 0;
+        margin-bottom: 0;
+        
+    }
+
+    
+    .catPicture {
+        width: 50%;
+        margin-right: 20px;
+
+
+    }
+
+    .c1 {
+        padding-left: 30px;
+        padding-right: 30px;
+
+    }
+
+    .indexNavbar1 {
+        display: none;
+    }
+
+    .indexNavbar2 {
+        display: block;
+        color: white;
+        margin: 0;
+        padding: 0;
+    }
+
+    .mainHeading1 {
+        display: none;
+    }
+
+    footer {
+        margin-top: 50%;
+
+    }
+
+    .indexHeading2 {
+        Padding: 20px;
+        color: white;
+        background:#58A69E; 
+        margin: 0;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+    
+}
+
+@media screen and (min-width: 769px) {
+
+    .c1 {
+        width: 500px;
+        height: ;
+       float: left;
+
+    }
+
+    footer {
+        margin-top: 100%;
+
+    }
+
+    container {
+        position: relative;
+    }
+
+
+
+
+}
