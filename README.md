@@ -1,3 +1,5 @@
+add custom css sheet and media queries, start with 640 then moove up
+
 # Responsive_Design
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
@@ -15,7 +17,7 @@ First, you will use the Bootstrap CSS Framework to recreate your portfolio. How 
 
    * A responsive layout
 
-   * Responsive images
+   * Responsive images <!--???-->
 
 * The Bootstrap portfolio should minimize the use of media queries.
 
