@@ -64,13 +64,14 @@ nav {
     margin-bottom: 0;
     z-index: -1;
     display: inline;
+    overflow: wrap;
 }
 
 .portfolioHeading {
     text-align: center;
     background:#58A69E;
     color: white;
-    widows: 330; 
+    
     font-family: 'Times New Roman', Times, serif;
     display: absolute;
     padding: 10px;
@@ -78,6 +79,7 @@ nav {
     bottom: 5px;
     z-index: 1;
     display: inline;
+    width: 94.1%;
 
 
 }
@@ -85,6 +87,10 @@ nav {
 .rel-tive {
     position: relative;
 
+}
+
+.rel-tive h4 {
+    width: 100%;
 }
 
 
@@ -175,6 +181,13 @@ footer {
 
     }
     
+    .portfolioHeading {
+        width: 87.5%;
+
+    }
+
+    
+
 }
 
 @media screen and (min-width: 769px) {
