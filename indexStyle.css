@@ -61,7 +61,7 @@ nav {
 p {
    line-height: 200%; 
     margin-top: 25px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 footer {
@@ -138,7 +138,7 @@ footer {
 
     .c1 {
         width: 500px;
-        height: ;
+        /* height: ; */
        float: left;
 
     }

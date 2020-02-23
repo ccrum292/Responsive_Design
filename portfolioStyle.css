@@ -32,6 +32,10 @@ nav {
 
 }
 
+.portfolio-subheadings{
+    color: #58A69E;
+    font-family: 'Times New Roman', Times, serif;;
+}
 
 .mainH2 {
     font-family: 'Times New Roman', Times, serif;
@@ -193,8 +197,7 @@ footer {
 @media screen and (min-width: 769px) {
 
     .c1 {
-        width: 500px;
-        height: ;
+        width: 1000px;
        float: left;
 
     }
