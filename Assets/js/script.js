@@ -41,6 +41,24 @@ var portfolioItems = [
     repo: 'https://github.com/ccrum292/MATCHMAKER',
     deployed: 'https://ccrum292.github.io/MATCHMAKER/',
     },
+    {
+      img: '<img class="w-100" alt="screen shot of the title page for a matchmaker website" src="./Assets/Images/express-note-taker.png">',
+      title: 'Express Notetaker',
+      repo: 'https://github.com/ccrum292/Express_Note_Taker',
+      deployed: 'https://ancient-eyrie-04813.herokuapp.com/',
+    },
+    {
+      img: '<img class="w-100" alt="screen shot of the title page for a matchmaker website" src="./Assets/Images/burger.png">',
+      title: 'Burger',
+      repo: 'https://github.com/ccrum292/Burger',
+      deployed: 'https://cryptic-tundra-47803.herokuapp.com/',
+    },
+    {
+      img: '<img class="w-100" alt="screen shot of the title page for a matchmaker website" src="./Assets/Images/exquisite-art-homepage.gif">',
+      title: 'Exquisite Corpse',
+      repo: 'https://github.com/ccrum292/exquisite-corpse',
+      deployed: 'http://play-exquisite-corpse.herokuapp.com/',
+    },
   ];
   
   function produceContactDisplay(){

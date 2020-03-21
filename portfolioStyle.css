@@ -125,6 +125,19 @@ footer {
     display: none;
 }
 
+
+
+button:hover {
+    color: white;
+    background: #58A69E;
+    box-shadow: 0 12px 16px 0 rgba(3, 3, 3, 0.24), 0 17px 50px 0 rgba(3, 3, 3, 0.24);
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    cursor: auto;
+}
+
 @media screen and (min-width: 641px) {
     
     .goodbye {
